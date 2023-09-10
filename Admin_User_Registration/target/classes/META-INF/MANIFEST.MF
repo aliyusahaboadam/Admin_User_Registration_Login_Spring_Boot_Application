@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: USER
+Build-Jdk: 17.0.7
+Implementation-Title: codingtechniques_tutorial
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: security_tutorial
+Implementation-URL: https://spring.io/projects/spring-boot/codingtechniq
+ ues_tutorial
+Created-By: Maven Integration for Eclipse
+
